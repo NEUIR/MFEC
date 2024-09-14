@@ -27,7 +27,7 @@ cd MFEC
 ### Train MFEC
 **I will show you how to reproduce the results in the MFEC paper.**
 
-* Go to the ``model`` folder and train the MFEC model [checkpoint](https://huggingface.co/yuqinglanok/MFEC/tree/main/mfec):*
+* Go to the ``model`` folder and train the MFEC model [checkpoint](https://huggingface.co/yuqinglanok/MFEC/tree/main/mfec):
 ```
 cd model
 bash train.sh
